@@ -10,3 +10,13 @@
 1. 简单配置即可用
 2. 支持所有类型的项目
 3. 支持多种消息类型
+
+---
+
+Using DingTalk automatic notifications in Jenkins
+
+## Features
+
+1. Simple configuration
+2. Supports all types of project
+3. Supports several message types
